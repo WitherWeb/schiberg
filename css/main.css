@@ -8626,7 +8626,7 @@ input, select {
   -ms-flex-negative: unset;
   flex-shrink: unset;
 }
-.product-main__swiper-thumbs .swiper-slide a {
+.product-main__swiper-thumbs .swiper-slide a, .product-main__swiper-thumbs .swiper-slide div {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
